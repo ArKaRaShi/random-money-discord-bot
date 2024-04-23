@@ -14,7 +14,7 @@ Install discord.py
 pip install
 ```
 
-Finally, Add 1 picture to the same repoitory named 'chest.png'
+Finally, Add 1 picture to the same repository named 'chest.png'
 
 ## Configuration
 
@@ -36,6 +36,10 @@ Once the bot is running, you can interact with it on Discord.
 
 ## Commands
 gamestart: Starts the money game.
+You can use !gamestart on discord channel
+```
+!gamestart
+```
 
 ## How the Game Works
 1. The game consists of three rounds.
