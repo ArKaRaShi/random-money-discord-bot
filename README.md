@@ -14,6 +14,10 @@ pip install
 ```
 
 Finally, Add 1 picture to the same repository named 'chest.png'
+Files in repository should have 3 of these
+- main.py
+- config.py
+- chest.png
 
 ## Configuration
 
