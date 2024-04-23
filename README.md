@@ -24,8 +24,9 @@ Files in repository should have 3 of these
 Before running the bot, you need to set up a Discord bot and obtain a token. Follow these steps:
 
 1. Create a Discord application and bot on the [Discord Developer Portal](https://discord.com/developers/applications).
-2. Copy the token of your bot.
-3. Inside in `config.py`, There has a variable named `TOKEN`, Assign your bot token to it:
+2. Invite your bot to your discord channel with permission to send and read text and file.
+3. Copy the token of your bot.
+4. Inside in `config.py`, There has a variable named `TOKEN`, Assign your bot token to it:
 ```python
 TOKEN = "your_bot_token"
 ```
