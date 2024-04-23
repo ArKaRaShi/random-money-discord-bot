@@ -8,7 +8,6 @@ Clone the repository:
 ```
 git clone https://github.com/ArKaRaShi/random-money-discord-bot.git
 ```
-Replace `your_username` and `your_repository` with your GitHub username and the name of your repository.
 Install discord.py
 ```
 pip install
