@@ -38,7 +38,7 @@ python main.py
 Once the bot is running, you can interact with it on Discord.
 
 ## Commands
-gamestart: Starts the money game.
+gamestart: Starts the money game.  
 You can use !gamestart on discord channel
 ```
 !gamestart
