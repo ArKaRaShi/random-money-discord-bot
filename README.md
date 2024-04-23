@@ -10,7 +10,7 @@ git clone https://github.com/ArKaRaShi/random-money-discord-bot.git
 ```
 Install discord.py
 ```
-pip install
+pip install discord.py
 ```
 
 Finally, Add 1 picture to the same repository named 'chest.png'  
